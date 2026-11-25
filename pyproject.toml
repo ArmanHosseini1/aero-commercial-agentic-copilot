@@ -1,0 +1,30 @@
+[project]
+name = "aero-commercial-agentic-copilot"
+version = "0.1.0"
+description = "Evidence-grounded commercial intelligence for aerospace teams"
+readme = "README.md"
+authors = [
+    { name = "ArmanHosseini1", email = "116032126+ArmanHosseini1@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai",
+    "pandas",
+    "plotly",
+    "pydantic",
+    "pydantic-settings",
+    "python-dotenv",
+    "qdrant-client",
+    "streamlit",
+]
+
+[build-system]
+requires = ["uv_build>=0.13.9,<0.14.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "aero_agentic_copilot"
+module-root = "src"
+
+[dependency-groups]
+dev = ["pytest"]

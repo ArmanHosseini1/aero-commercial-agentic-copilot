@@ -1,0 +1,81 @@
+survey_id,airline_name,date,domain,rating,verbatim_text
+SUR-0001,Horizon Air,2026-10-17,Sales,3,"The account team understands our fleet plan, but revised proposals take several days to arrive."
+SUR-0002,Horizon Air,2025-04-25,Sales,4,The fleet-planning workshop was useful and gave our finance team a clear set of options.
+SUR-0003,Horizon Air,2025-01-26,Contracts,2,We are still reconciling two contract amendments because the approval trail was not shared promptly.
+SUR-0004,Horizon Air,2025-10-09,Contracts,3,"The latest change summary is clearer, although we need earlier notice of wording changes."
+SUR-0005,Horizon Air,2025-09-08,Cabin Customisation,1,"Cabin customisation lead times remain far longer than planned, and late option decisions are putting our launch schedule at risk."
+SUR-0006,Horizon Air,2025-08-17,Cabin Customisation,2,"The revised cabin mock-up is helpful, but monument approvals still take weeks to turn around."
+SUR-0007,Horizon Air,2025-05-23,Delivery,2,"Our delivery dashboard has not reflected the latest milestone dates, so our airport teams are planning with old information."
+SUR-0008,Horizon Air,2025-04-15,Delivery,3,"The weekly delivery call helped resolve open items, but the action owners were not always recorded."
+SUR-0009,Horizon Air,2026-07-13,Support,2,"Spare parts documentation arrived after the shipment, which delayed our receiving inspection."
+SUR-0010,Horizon Air,2025-03-31,Support,4,The support desk followed up consistently and gave our maintenance team a useful escalation contact.
+SUR-0011,NordWind Aviation,2026-08-28,Sales,3,The commercial team responds quickly to meeting requests but has not closed the loop on our revised fleet scenario.
+SUR-0012,NordWind Aviation,2026-03-09,Sales,2,"Our regional growth case was well understood, though the final proposal omitted two requested operating assumptions."
+SUR-0013,NordWind Aviation,2025-02-02,Contracts,2,We received different interpretations of the warranty language from the commercial and legal contacts.
+SUR-0014,NordWind Aviation,2025-01-31,Contracts,2,A change order waited for several internal approvals without a clear status update to our team.
+SUR-0015,NordWind Aviation,2025-04-06,Cabin Customisation,2,"The cabin options list is comprehensive, but configuration decisions are arriving too late for our planning window."
+SUR-0016,NordWind Aviation,2025-08-12,Cabin Customisation,1,"We had to repeat our seat and galley requirements after the design review, adding avoidable weeks to the process."
+SUR-0017,NordWind Aviation,2025-08-27,Delivery,2,The delivery sequence changed twice this month and the revised dates were not reflected in the shared tracker.
+SUR-0018,NordWind Aviation,2026-06-02,Delivery,3,"The acceptance team was prepared, but several open documentation actions were discovered during the handover."
+SUR-0019,NordWind Aviation,2026-09-09,Support,2,"Technical publications for replacement parts were incomplete, leaving our maintenance planners to request follow-up files."
+SUR-0020,NordWind Aviation,2025-01-28,Support,3,"The service team acknowledged our case promptly, but the final technical answer required multiple escalations."
+SUR-0021,Pacifica Airlines,2026-07-29,Sales,4,The account team compared fleet options clearly and included operating scenarios our network planners could use.
+SUR-0022,Pacifica Airlines,2025-07-23,Sales,5,"Our proposal review was well prepared, with prompt answers to questions from procurement and engineering."
+SUR-0023,Pacifica Airlines,2026-07-13,Contracts,4,The contract summary made the delivery assumptions and responsibilities easy to review.
+SUR-0024,Pacifica Airlines,2026-03-06,Contracts,3,"The amendment was completed correctly, although the signature package could have been circulated sooner."
+SUR-0025,Pacifica Airlines,2025-08-14,Cabin Customisation,4,The design team translated our regional passenger preferences into practical cabin options.
+SUR-0026,Pacifica Airlines,2026-04-05,Cabin Customisation,4,Sample materials arrived on time and the approval record was easy for our team to follow.
+SUR-0027,Pacifica Airlines,2026-08-27,Delivery,4,"Our aircraft status calls are concise, and the production updates have been consistent."
+SUR-0028,Pacifica Airlines,2025-10-12,Delivery,3,"The acceptance checklist worked well, though a few supporting certificates arrived close to handover."
+SUR-0029,Pacifica Airlines,2025-01-07,Support,4,The service desk routed our technical question to the right specialist on the first attempt.
+SUR-0030,Pacifica Airlines,2025-06-13,Support,5,The parts planning session identified several common items before our peak travel period.
+SUR-0031,Solstice Airways,2026-03-09,Sales,4,The account manager brought the right operations and finance specialists into our planning discussion.
+SUR-0032,Solstice Airways,2025-12-15,Sales,4,The revised commercial offer arrived on schedule and clearly separated optional services.
+SUR-0033,Solstice Airways,2025-10-12,Contracts,3,"The renewal terms were understandable, but one annex required an additional legal review."
+SUR-0034,Solstice Airways,2025-06-09,Contracts,4,Our latest contract question was answered with a concise explanation and supporting reference.
+SUR-0035,Solstice Airways,2025-08-09,Cabin Customisation,3,"The cabin review was productive, although the final material samples took longer than expected."
+SUR-0036,Solstice Airways,2025-12-11,Cabin Customisation,4,We appreciated the clear comparison of seat-fabric options and the documented approval date.
+SUR-0037,Solstice Airways,2025-04-15,Delivery,4,The aircraft handover team kept our station leads informed throughout the acceptance week.
+SUR-0038,Solstice Airways,2025-04-05,Delivery,3,"The schedule was realistic overall, but a late change to the review agenda created extra coordination."
+SUR-0039,Solstice Airways,2026-01-25,Support,4,We received a practical troubleshooting guide and a named contact for the remaining questions.
+SUR-0040,Solstice Airways,2025-04-10,Support,3,The initial acknowledgement was quick; the final response on the component interchange took longer.
+SUR-0041,Aether Jet,2026-01-03,Sales,5,The commercial workshop connected our route plans to an aircraft mix that our leadership could evaluate.
+SUR-0042,Aether Jet,2025-12-19,Sales,4,The team followed up with a detailed option comparison and answered our finance questions directly.
+SUR-0043,Aether Jet,2026-09-11,Contracts,4,"The contract review log showed each open item, owner, and agreed next step."
+SUR-0044,Aether Jet,2025-09-28,Contracts,4,Procurement received the requested clarification before our internal approval meeting.
+SUR-0045,Aether Jet,2025-02-14,Cabin Customisation,4,The design team offered alternatives that met our premium-cabin goals without complicating maintenance.
+SUR-0046,Aether Jet,2026-04-16,Cabin Customisation,3,"The cabin presentation was strong, but we would benefit from earlier access to production-ready drawings."
+SUR-0047,Aether Jet,2026-07-04,Delivery,4,Our inspection team received a useful schedule and knew which specialists would attend each review.
+SUR-0048,Aether Jet,2025-05-08,Delivery,5,"The handover package was orderly, and our operations group had time to prepare for entry into service."
+SUR-0049,Aether Jet,2026-01-23,Support,4,The support coordinator kept our open technical cases visible and arranged a productive review.
+SUR-0050,Aether Jet,2025-03-22,Support,4,Parts availability assumptions were explained clearly and aligned with our initial fleet plan.
+SUR-0051,Meridian Express,2026-07-20,Sales,3,"The proposal covered our route network well, but we needed another meeting to clarify the service options."
+SUR-0052,Meridian Express,2025-10-28,Sales,4,The account team shared a helpful fleet-growth model and updated it after our planning change.
+SUR-0053,Meridian Express,2026-10-06,Contracts,3,"Most clauses were straightforward, although the document version history was difficult to track."
+SUR-0054,Meridian Express,2026-09-26,Contracts,4,The contract specialist resolved our invoicing question and sent an updated schedule the same day.
+SUR-0055,Meridian Express,2026-01-06,Cabin Customisation,3,"We liked the proposed cabin layout, but approval dates should be tied more closely to our internal board calendar."
+SUR-0056,Meridian Express,2026-08-15,Cabin Customisation,4,The revised drawings captured our requests and reduced the number of open design comments.
+SUR-0057,Meridian Express,2025-07-16,Delivery,3,"The production update was useful, but a milestone moved before our team received the formal notice."
+SUR-0058,Meridian Express,2025-03-13,Delivery,4,The delivery-readiness checklist helped our station teams coordinate training and equipment.
+SUR-0059,Meridian Express,2025-02-16,Support,3,"We received an answer to our maintenance question, though the parts reference needed a second clarification."
+SUR-0060,Meridian Express,2025-08-22,Support,4,The regional support call gave our engineers a clear path for urgent service requests.
+SUR-0061,Borealis Air,2025-10-24,Sales,4,Our account manager brought a clear summary of the regional operating assumptions to the review.
+SUR-0062,Borealis Air,2025-03-23,Sales,3,"The commercial options were relevant, but we are waiting for an updated comparison of service packages."
+SUR-0063,Borealis Air,2025-08-27,Contracts,4,The revised agreement highlighted the differences from the previous draft and saved review time.
+SUR-0064,Borealis Air,2025-04-14,Contracts,3,"The change-control process is workable, though response times vary between contract contacts."
+SUR-0065,Borealis Air,2026-01-25,Cabin Customisation,4,The cabin team gave us enough time to compare durable material choices for our winter operations.
+SUR-0066,Borealis Air,2025-10-12,Cabin Customisation,3,"We received the requested layout drawings, but one supplier specification was missing from the pack."
+SUR-0067,Borealis Air,2026-04-10,Delivery,4,The production visit was well coordinated and gave our technical team confidence in the plan.
+SUR-0068,Borealis Air,2026-10-13,Delivery,4,Acceptance actions were closed in a transparent tracker before the final readiness meeting.
+SUR-0069,Borealis Air,2026-01-09,Support,2,"Spare parts documentation arrived in separate emails, making it difficult to confirm that our library was complete."
+SUR-0070,Borealis Air,2025-06-16,Support,4,The support engineer explained the publication revision and helped us update our maintenance records.
+SUR-0071,Vanguard Aviation,2026-01-15,Sales,3,"The account team understood our growth targets, but a requested price scenario was delivered late."
+SUR-0072,Vanguard Aviation,2025-12-30,Sales,4,The route and fleet discussion was constructive and gave our leadership a useful next-step plan.
+SUR-0073,Vanguard Aviation,2025-08-03,Contracts,3,"We closed the main commercial points, although the local-language summary needed another review."
+SUR-0074,Vanguard Aviation,2025-10-01,Contracts,4,Our legal team received a prompt response and a clean copy of the agreed contract changes.
+SUR-0075,Vanguard Aviation,2025-03-15,Cabin Customisation,3,"The cabin options suited our market, but we need firmer dates for approving customer-facing finishes."
+SUR-0076,Vanguard Aviation,2026-09-16,Cabin Customisation,4,The design review recorded each decision and gave our team clear owners for the remaining choices.
+SUR-0077,Vanguard Aviation,2026-10-13,Delivery,3,"The aircraft timeline is credible, but dependencies on training equipment should be more visible."
+SUR-0078,Vanguard Aviation,2025-06-25,Delivery,4,Our acceptance planning call covered the handover sequence and regional support contacts.
+SUR-0079,Vanguard Aviation,2026-07-01,Support,3,"The service desk resolved our routine request, though the supporting parts list was not attached initially."
+SUR-0080,Vanguard Aviation,2025-09-08,Support,4,The regional support contact followed through and kept our operations team updated.
